@@ -14,11 +14,20 @@ Docker · Git · Conda · VS Code Devcontainers · Linux HPC
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IreneBaltzi&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBaltzi&layout=compact&theme=tokyonight" alt="langs" height="165"/>
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=IreneBaltzi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="165"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IreneBaltzi&theme=tokyonight" height="165"/>
 </p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBaltzi&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
 
 ---
 
