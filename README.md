@@ -1,7 +1,7 @@
 # Hi there, I'm Eirini 👋
 
 ### 🚀 About Me
-- 🎓 I’m a Surveying & Geoinformatics Engineer (NTUA) with a Master’s degree in Data Science and Information Technologies, specializing in Big Data and Artificial Intelligence (NKUA)
+- 🎓 I’m a Surveying & Geoinformatics Engineer (NTUA), currently pursuing an MSc in Data Science and Information Technologies, specializing in Big Data and Artificial Intelligence (NKUA).
 - 🔭 Currently working on **Multimodal Representation Learning** (vision, tabular, remote sensing 🌍, medical AI 🩺).
 - 🎓 Researcher in **RSLab, NTUA**.
 ---
@@ -9,9 +9,9 @@
 ### 🛠️ Tech Stack
 **Languages:**  
 Python · PyTorch · Bash · LaTeX · SQL  
-
-### **DevOps & Tools:**  
+**DevOps & Tools:**  
 Docker · Git · Conda · VS Code Devcontainers · Linux HPC 
+
 ---
 
 ### 📈 GitHub Stats
@@ -23,7 +23,7 @@ Docker · Git · Conda · VS Code Devcontainers · Linux HPC
 ---
 
 ### 🔗 Connect with me
-- 🌐 [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=5wy9Ec4AAAAJ&hl=en))  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/eirini-baltzi/))   
+- 🌐 [Google Scholar](https://scholar.google.com/citations?user=5wy9Ec4AAAAJ&hl=en)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eirini-baltzi/)
 
 ---
