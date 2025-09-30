@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Eirini 👋
 
-<!--
-**IreneBaltzi/IreneBaltzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 I’m a Surveying & Geoinformatics Engineer (NTUA) with a Master’s degree in Data Science and Information Technologies, specializing in Big Data and Artificial Intelligence (NKUA)
+- 🔭 Currently working on **Multimodal Representation Learning** (vision, tabular, remote sensing 🌍, medical AI 🩺).
+- 🎓 Researcher in **RSLab, NTUA**.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+**Languages:**  
+Python · PyTorch · Bash · LaTeX · SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**DevOps & Tools:**  
+Docker · Git · Conda · VS Code Devcontainers · Linux HPC 
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="langs" height="165"/>
+</p>
+
+---
+
+### 🔗 Connect with me
+- 🌐 [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=5wy9Ec4AAAAJ&hl=en))  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/eirini-baltzi/))   
+
+---
