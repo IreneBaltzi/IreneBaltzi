@@ -10,7 +10,7 @@
 **Languages:**  
 Python · PyTorch · Bash · LaTeX · SQL  
 
-**DevOps & Tools:**  
+### **DevOps & Tools:**  
 Docker · Git · Conda · VS Code Devcontainers · Linux HPC 
 ---
 
