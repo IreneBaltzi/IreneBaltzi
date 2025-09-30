@@ -14,20 +14,23 @@ Docker · Git · Conda · VS Code Devcontainers · Linux HPC
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Developer Dashboard
 
+<!-- Row 1: Main stats + Streak -->
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IreneBaltzi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="165"/>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IreneBaltzi&theme=tokyonight" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IreneBaltzi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=IreneBaltzi&theme=tokyonight" alt="GitHub streak" />
 </p>
 
+<!-- Row 2: Top languages -->
 <p align="center">
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBaltzi&layout=compact&theme=tokyonight" height="150"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBaltzi&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
 </p>
 
+<!-- Optional: Summary cards (compact grid) -->
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IreneBaltzi&theme=tokyonight" />
+</p>
 
 ---
 
