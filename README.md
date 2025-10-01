@@ -27,11 +27,6 @@ Docker · Git · Conda · VS Code Devcontainers · Linux HPC
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBaltzi&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
 </p>
 
-<!-- Optional: Summary cards (compact grid) -->
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IreneBaltzi&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🔗 Connect with me
