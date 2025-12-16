@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🎓 I’m a Surveying & Geoinformatics Engineer (NTUA), currently pursuing an MSc in Data Science and Information Technologies, specializing in Big Data and Artificial Intelligence (UOA).
 - 🔭 Currently working on **Multimodal Representation Learning** (vision, tabular, remote sensing 🌍, medical AI 🩺).
-- 🎓 Researcher in **RSLab, NTUA**.
+- 🎓 Associate Researcher in **RSLab, NTUA**.
 ---
 
 ### 🛠️ Tech Stack
