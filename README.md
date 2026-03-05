@@ -14,18 +14,6 @@ Docker · Git · Conda · VS Code Devcontainers · Linux HPC
 
 ---
 
-## 📊 Developer Dashboard
-
-<!-- Row 1: Main stats + Streak -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IreneBaltzi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=IreneBaltzi&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<!-- Row 2: Top languages -->
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBaltzi&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
-</p>
 
 ---
 
